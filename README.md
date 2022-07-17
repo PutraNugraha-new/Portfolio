@@ -10,5 +10,5 @@ Projek dimulai 17 Juli 2022.
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@PutraNugraha](https://github.com/PutraNugraha-new)
 

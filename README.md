@@ -8,5 +8,7 @@ pada sekretariat.
 Projek dimulai 17 Juli 2022.
 
 
-## 🔗 Links
-[![Github](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/PutraNugraha-new/Portfolio.git)
+## Authors
+
+- [@katherinepeterson](https://www.github.com/octokatherine)
+

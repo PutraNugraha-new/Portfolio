@@ -1,5 +1,5 @@
 
-# Projek #1 - PortFolio > Data sekretariat
+# Projek #1 - PortFolio
 
 Program simpel tentang profil diri.
 
